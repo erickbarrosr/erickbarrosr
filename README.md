@@ -3,7 +3,7 @@
 - Graduating in Systems Analysis and Development 🎓
 - English student 📚
 - Developer since 2021 🧑‍💻
-- Full-Stack Development 💻
+- Software Engineering 💻
 
 ##
 <div style="display: inline_block"><br>
