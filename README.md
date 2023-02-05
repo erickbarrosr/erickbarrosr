@@ -1,4 +1,4 @@
-## Hey, I`m Erick Barros, welcome to my profile!!! 🤘
+## Hello, I'm Erick Barros, welcome to my profile!!! 🤘
 
 - Graduating in Systems Analysis and Development 🎓
 - English student 📚
