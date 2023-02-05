@@ -1,4 +1,4 @@
-# Hey, I`m Erick Barros, welcome to my profile!!!
+# Hey, I`m Erick Barros, welcome to my profile!!! 🤘
 
 ## Intro
 
