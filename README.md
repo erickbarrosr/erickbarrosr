@@ -1,9 +1,9 @@
 ## Hello, I'm Erick Barros, welcome to my profile!!! 🤘
 
-- Graduating in Systems Analysis and Development 🎓
+- Graduate in Systems Analysis and Development 🎓
+- Postgraduating in Software Engineering 💻
 - English student 📚
 - Developer since 2021 🧑‍💻
-- Software Engineering 💻
 
 ##
 
