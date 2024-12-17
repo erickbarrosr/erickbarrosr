@@ -2,7 +2,7 @@
 
 - Graduate in Systems Analysis and Development 🎓
 - Postgraduating in Software Engineering 💻
-- English student 📚
+- Spoken English and Portuguese 🌎
 - Developer since 2021 🧑‍💻
 
 ##
