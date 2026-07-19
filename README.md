@@ -24,7 +24,6 @@
   <img align="center" alt="Node.js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="MongoDB" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="AWS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-</svg>
 </div>
 
 ##
