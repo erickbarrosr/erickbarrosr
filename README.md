@@ -1,4 +1,4 @@
-## Hello, I'm Erick Barros, welcome to my profile!!! 🤘
+## Hello, I'm Erick Rezende, welcome to my profile!!! 🤘
 
 - Graduate in Systems Analysis and Development 🎓
 - Postgraduating in Software Engineering 💻
